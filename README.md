@@ -3,8 +3,6 @@
 
 🏷️ To be used with https://windowsgsm.com/ 
 
-> [!CAUTION]
-> I was unable to identify a method for a graceful server shutdown. Therefore, I recommend either reducing the save interval or synchronizing the restart time with the server’s auto-save schedule.
 
 # Basic Installation: 
 1. Download  WindowsGSM from the Link above.
