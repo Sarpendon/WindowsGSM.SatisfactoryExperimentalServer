@@ -1,5 +1,5 @@
-# WindowsGSM.MythofEmpires
-🧩 WindowsGSM plugin that provides Myth of Empires Dedicated server support!
+# WindowsGSM.SatisfactoryExperimentalServer
+🧩 WindowsGSM plugin that provides Satisfactory Experimental Dedicated server support!
 
 🏷️ To be used with https://windowsgsm.com/ 
 
